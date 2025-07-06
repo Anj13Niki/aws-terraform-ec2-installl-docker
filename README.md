@@ -1,5 +1,5 @@
 
-🚀 #Terraform EC2 Instance with Docker Installation
+## 🚀 Terraform EC2 Instance with Docker Installation
 
 This project uses Terraform to provision an AWS EC2 instance and automatically installs Docker on it using a user-data shell script.
 
